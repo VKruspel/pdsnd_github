@@ -15,3 +15,6 @@ new_york_city.csv
 
 ### Credits
 original repo which was used as basis in this Udacity Github Course: https://github.com/udacity/pdsnd_github
+
+###Author
+first_name last_name
