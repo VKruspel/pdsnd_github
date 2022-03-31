@@ -5,7 +5,7 @@
 Udacity Bikeshare Project
 
 ### Description
-In this project bikeshare data from 3 US cities are analized.
+In this project bikeshare data from 3 US cities are analyzed.
 
 ### Files used
 bikeshare.py
